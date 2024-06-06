@@ -19,18 +19,18 @@
                                         <div>
                                             <div class="text-center">
                                                 <div>
-                                                    <a href="index.html" class="authentication-logo">
+                                                    <a href="./index.php" class="authentication-logo">
                                                         <img src="assets/images/logo-dark.png" alt="" height="20" class="auth-logo logo-dark mx-auto">
                                                         <img src="assets/images/logo-light.png" alt="" height="20" class="auth-logo logo-light mx-auto">
                                                     </a>
                                                 </div>
     
                                                 <h4 class="font-size-18 mt-4">Welcome Back !</h4>
-                                                <p class="text-muted">Sign in to continue to Nazox.</p>
+                                                <p class="text-muted">Sign in to continue to Scrubsuniforms.</p>
                                             </div>
 
                                             <div class="p-2 mt-5">
-                                                <form class="" action="index.html">
+                                                <form class="" action="./index.php">
                     
                                                     <div class="mb-3 auth-form-group-custom mb-4">
                                                         <i class="ri-user-2-line auti-custom-input-icon"></i>
@@ -54,14 +54,14 @@
                                                     </div>
 
                                                     <div class="mt-4 text-center">
-                                                        <a href="auth-recoverpw.html" class="text-muted"><i class="mdi mdi-lock me-1"></i> Forgot your password?</a>
+                                                        <a href="#" class="text-muted"><i class="mdi mdi-lock me-1"></i> Forgot your password?</a>
                                                     </div>
                                                 </form>
                                             </div>
 
                                             <div class="mt-5 text-center">
-                                                <p>Don't have an account ? <a href="auth-register.html" class="fw-medium text-primary"> Register </a> </p>
-                                                <p>© <script>document.write(new Date().getFullYear())</script> Nazox. Crafted with <i class="mdi mdi-heart text-danger"></i> by Themesdesign</p>
+                                                <p>Don't have an account ? <a href="./signup.php" class="fw-medium text-primary"> Register </a> </p>
+                                                <p>© <script>document.write(new Date().getFullYear())</script> Scrubsuniforms. Crafted with <i class="mdi mdi-heart text-danger"></i> by ....</p>
                                             </div>
                                         </div>
                                     </div>

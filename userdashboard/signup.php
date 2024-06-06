@@ -19,18 +19,17 @@
                                         <div>
                                             <div class="text-center">
                                                 <div>
-                                                    <a href="index.html" class="authentication-logo">
-                                                        <img src="assets/images/logo-dark.png" alt="" height="20" class="auth-logo logo-dark mx-auto">
+                                                    <a href="./index.php" class="authentication-logo">
                                                         <img src="assets/images/logo-light.png" alt="" height="20" class="auth-logo logo-light mx-auto">
                                                     </a>
                                                 </div>
     
                                                 <h4 class="font-size-18 mt-4">Register account</h4>
-                                                <p class="text-muted">Get your free Nazox account now.</p>
+                                                <p class="text-muted">Get your free Scrubsuniforms account now.</p>
                                             </div>
 
                                             <div class="p-2 mt-5">
-                                                <form class="" action="index.html">
+                                                <form class="" action="./index.php">
 
                                                     <div class="auth-form-group-custom mb-4">
                                                         <i class="ri-mail-line auti-custom-input-icon"></i>
@@ -62,8 +61,8 @@
                                             </div>
 
                                             <div class="mt-5 text-center">
-                                                <p>Already have an account ? <a href="auth-login.html" class="fw-medium text-primary"> Login</a> </p>
-                                                <p>© <script>document.write(new Date().getFullYear())</script> Nazox. Crafted with <i class="mdi mdi-heart text-danger"></i> by Themesdesign</p>
+                                                <p>Already have an account ? <a href="./signup.php" class="fw-medium text-primary"> Login</a> </p>
+                                                <p>© <script>document.write(new Date().getFullYear())</script> Scrubsuniforms. Crafted with <i class="mdi mdi-heart text-danger"></i> by ...</p>
                                             </div>
                                         </div>
 

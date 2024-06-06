@@ -212,6 +212,8 @@ button:focus{
   color: white;
   border-radius: 50%;
   margin: 10px;
+  width: 36px;
+  height: 36px;
 }
 .primary-badge{
   color: #2183ad;
@@ -400,4 +402,8 @@ button:focus{
   .order-table {
     font-size: 12px;
   }
+}
+
+.border-radius-20 {
+  border-radius: 20px;
 }
